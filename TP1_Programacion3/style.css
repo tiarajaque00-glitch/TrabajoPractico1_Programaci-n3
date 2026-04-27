@@ -7,6 +7,11 @@ body {
   font-style: italic;
 }
 
+.oblique {
+  font-style: oblique;
+}
+
+
 h1 {
     color: rgb(216, 119, 255);
     font-size: 32px;
