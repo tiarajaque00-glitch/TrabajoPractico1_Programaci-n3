@@ -1,0 +1,49 @@
+body {
+    background-color: #ffffff;
+    font-family: Arial, sans-serif;
+}
+
+.italic {
+  font-style: italic;
+}
+
+h1 {
+    color: rgb(216, 119, 255);
+    font-size: 32px;
+}
+
+h2 {
+    color: rgb(141, 82, 165);
+    font-size: 24px;
+}
+
+p {
+    color: black;
+    font-size: 16px;
+}
+
+a {
+    color: blue;
+    font-size: 16px;
+}
+
+ul, ol {
+    color: black;
+    font-size: 16px;
+}
+
+table {
+    color: black;
+    font-size: 16px;
+}
+
+th {
+    color: rgb(214, 171, 255);
+    background-color: rgb(182, 19, 182);
+    font-size: 18px;
+}
+
+td {
+    color: black;
+    font-size: 16px;
+}    
